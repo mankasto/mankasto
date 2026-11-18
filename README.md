@@ -1,6 +1,6 @@
 # Hi there, I'm Kailang Ma 👋
 
-- 🎓 I am an incoming Ph.D. student at **KAIST**.
+- 🎓 I am a first-year Ph.D. student at **KAIST**.
 - 🚘 I work on **world models**, **autonomous driving**, **embodied AI**, and **trustworthy machine learning**.
 - 🔭 I am interested in decision-relevant representations, uncertainty-aware reasoning, and recoverable decision-making in dynamic environments.
 - 🤝 I am open to research discussions and collaborations in these areas.
